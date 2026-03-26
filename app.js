@@ -1,5 +1,5 @@
 // *** ATENÇÃO: NÃO ESQUEÇA DE ALTERAR O ENDEREÇO ABAIXO!!!! ****
-const API_BASE = "catalogo2-api-production.up.railway.app"
+const API_BASE = "https://catalogo2-api-production.up.railway.app"
 
 
 const listaEl = document.getElementById("lista")
